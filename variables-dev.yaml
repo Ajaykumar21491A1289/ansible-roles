@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb-dev.ajju.site  # submit your host
+REDIS_HOST: redis-dev.ajju.site 
+MYSQL_HOST: mysql-dev.ajju.site
+RABBITMQ_HOST: rabbitmq-dev.ajju.site
+CATALOGUE_HOST: catalogue-dev.ajju.site
+USER_HOST: user-dev.ajju.site
+CART_HOST: cart-dev.ajju.site
+SHIPPING_HOST: shipping-dev.ajju.site
+PAYMENT_HOST: payment-dev.ajju.site
+DISPATCH_HOST: dispatch-dev.ajju.site
